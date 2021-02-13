@@ -1,0 +1,13 @@
+.intro-text p {
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: none;
+}
+
+#main {
+    width: 35em;
+}
+
+hr {
+    margin: 5px 0;
+}
